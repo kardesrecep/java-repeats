@@ -1,0 +1,14 @@
+target/
+*.iml
+.idea/*
+
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+*.h2.db
+
+# Other
+.DS_Store
+Thumbs.db
